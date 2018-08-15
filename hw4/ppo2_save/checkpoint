@@ -1,0 +1,6 @@
+model_checkpoint_path: "ppo2_net.ckpt-10000"
+all_model_checkpoint_paths: "ppo2_net.ckpt-9960"
+all_model_checkpoint_paths: "ppo2_net.ckpt-9970"
+all_model_checkpoint_paths: "ppo2_net.ckpt-9980"
+all_model_checkpoint_paths: "ppo2_net.ckpt-9990"
+all_model_checkpoint_paths: "ppo2_net.ckpt-10000"
